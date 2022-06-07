@@ -5,4 +5,4 @@ In this project, in order to predict the effluent characteristics of wastewater 
 
 1- Bayesian network: `bnlearn` continuous variables and `bnclassify` discrete variables
 2- `stpredict`
-2- `sklearn` KNN, DT, MLP, LR, GLM
+2- `sklearn` KNN, DT, MLP, LR, GLM, BDT
