@@ -7,3 +7,8 @@ This project aims to forecast the effluent characteristics of wastewater treatme
 2. LSTM for time-varying variables: Implemented in the `Keras` Python package.
 
 3. `sklearn` models: Including KNN, SVM, DT, MLP, RF, ET, and GBM.
+
+
+## Citation
+
+- If you use the data or models in a scientific publication, we would appreciate citations: [Tackling data challenges in forecasting effluent characteristics of wastewater treatment plants](https://www.sciencedirect.com/science/article/abs/pii/S0301479724003104?via%3Dihub)
